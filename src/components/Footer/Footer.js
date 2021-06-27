@@ -1,6 +1,6 @@
 import React from "react";
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
-import { SiCodeforces, SiCodechef } from "react-icons/Si";
+import { SiCodeforces, SiCodechef } from "react-icons/si";
 import { SocialIcons } from "../Header/HeaderStyles";
 import {
   CompanyContainer,
