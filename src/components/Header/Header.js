@@ -2,7 +2,7 @@ import Link from "next/link";
 import React from "react";
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
 import { DiCssdeck } from "react-icons/di";
-import { SiCodeforces, SiCodechef } from "react-icons/Si";
+import { SiCodeforces, SiCodechef } from "react-icons/si";
 
 import {
   Container,
