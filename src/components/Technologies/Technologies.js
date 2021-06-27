@@ -1,6 +1,6 @@
 import React from "react";
 import { DiFirebase, DiReact, DiZend } from "react-icons/di";
-import { FaLanguage } from "react-icons/Fa";
+import { FaLanguage } from "react-icons/fa";
 
 import {
   Section,
