@@ -42,19 +42,19 @@ const Header = () => (
     </Div2>
     <Div3>
       <SocialIcons href="https://github.com/mastershailesh1234">
-        <AiFillGithub size="3rem" />
+        <AiFillGithub size="2.7rem" />
       </SocialIcons>
       <SocialIcons href="https://www.linkedin.com/in/shailesh-patro-4b28901b3/">
-        <AiFillLinkedin size="3rem" />
+        <AiFillLinkedin size="2.7rem" />
       </SocialIcons>
       <SocialIcons href="https://www.instagram.com/master_shailesh_1234/">
-        <AiFillInstagram size="3rem" />
+        <AiFillInstagram size="2.7rem" />
       </SocialIcons>
       <SocialIcons href="https://codeforces.com/profile/master_coder1234">
-        <SiCodeforces size="3rem" />
+        <SiCodeforces size="2.7rem" />
       </SocialIcons>
       <SocialIcons href="https://www.codechef.com/users/master_sp1234">
-        <SiCodechef size="3rem" />
+        <SiCodechef size="2.7rem" />
       </SocialIcons>
     </Div3>
   </Container>
