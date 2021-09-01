@@ -9,15 +9,6 @@ export const projects = [
     id: 0,
   },
   {
-    title: "E-Commerce",
-    description: "A complete eCommerce website (using Stripe‐payment gate).",
-    image: "/images/2.png",
-    tags: ["React", "JavaScript", "Commerce.js"],
-    source: "https://github.com/mastershailesh1234/ecommerce-website",
-    visit: "https://shailesh-ecommerce.netlify.app",
-    id: 1,
-  },
-  {
     title: "Video Chat App",
     description: " A React Video Chat Application using WebRTC.",
     image: "/images/3.jpg",
