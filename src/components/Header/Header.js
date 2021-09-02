@@ -19,7 +19,7 @@ const Header = () => (
     <Div1>
       <Link href="/">
         <a style={{ display: "flex", alignItems: "center", color: "orange" }}>
-          <DiCssdeck size="3rem" /> <Span>MyPortfolio</Span>
+          <DiCssdeck size="3rem" /> <Span>ShaileshPatro</Span>
         </a>
       </Link>
     </Div1>
