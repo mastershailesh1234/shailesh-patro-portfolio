@@ -67,12 +67,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am currently a Third year undergraduate in National Institute of
-        Technology, Rourkela,India. I am learning full stack web devloper and
-        working hard to be recoznised as an expert in this field. I am a
-        photography enthuist with decent editing skills and I love to capture
-        nature and various moments of life. In free time I love to explore my
-        artistic skills and explore about the vast treasure of astronomy.
+        I am currently a Third-year undergraduate at National Institute of Technology, Rourkela, India. I am learning full-stack web development and working hard to be recognized as an expert in this field. I am a photography enthusiast with decent editing skills, and I love to capture nature and various moments of life. I love to explore my artistic skills and explore the vast treasure of astronomy in my free time.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
