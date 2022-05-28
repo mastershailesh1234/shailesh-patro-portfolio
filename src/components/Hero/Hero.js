@@ -24,7 +24,7 @@ const Hero = (props) => (
         <Button
           onClick={() =>
             (window.location =
-              "https://drive.google.com/file/d/1oqBO3CzI1XJMRJ-vxerEVU7SucsGAxvJ/view?usp=sharing")
+              "https://drive.google.com/file/d/17upV7dPHfF9GYN0CMySp5kunEOf2U-bt/view?usp=sharing")
           }
         >
           View CV in PDF
