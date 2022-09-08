@@ -8,8 +8,12 @@ import {
 import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
-  { number: 8, text: " Web Dev Projects" },
-  { number: 1710, text: "Rating-Codechef" }
+  { number: 400, text: "+ problems solved on leetcode and GFG " },
+  { number: 162, text: "th rank in CodeChef Starters 18 Division 3 " },
+  { number: 342, text: "rd rank in Newton's coding challenge September 2021" },
+  { number: 1710, text: "+ Rating-Codechef" },
+  { number: 756, text: "th rank in March CodeChef Starters 2021 Division 3" },
+  { number: 74, text: "th rank in Data Structures and Algorithms Coding Contest Hacker earth" },
 ];
 
 const Acomplishments = () => (
@@ -18,7 +22,7 @@ const Acomplishments = () => (
     <Boxes>
       {data.map((card, index) => (
         <Box key={index}>
-          <BoxNum>{`${card.number}+`}</BoxNum>
+          <BoxNum>{`${card.number}`}</BoxNum>
           <BoxText>{card.text}</BoxText>
         </Box>
       ))}
