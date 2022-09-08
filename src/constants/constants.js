@@ -61,7 +61,7 @@ export const TimeLineData = [
   { year: 2017, text: "Passed Class 10th(10 CGPA)" },
   { year: 2019, text: "Passed Class 12th(94%)" },
   { year: 2019, text: "Joined NIT ROURKELA" },
-  { year: 2020, text: "Started Web Development and competitive programming" },
+  { year: 2021, text: "Started Web Development" },
   {
     year: 2021,
     text: "AUG: Completed few major Projects related to MERN stack",
