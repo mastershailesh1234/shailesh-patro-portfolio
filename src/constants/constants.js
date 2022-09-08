@@ -1,16 +1,25 @@
 export const projects = [
   {
-    title: "Social Media App",
-    description: "Full Stack MERN project similar to Instagram. ",
+    title: "Vriddhi Website",
+    description: "Vriddhi is India’s first college e-sports fest ",
     image: "/images/1.png",
-    tags: ["Mongo", "Express", "React", "Node"],
-    source: "https://github.com/mastershailesh1234/social-media-app",
-    visit: "https://shailesh-social-media-app.netlify.app",
+    tags: ["Mongo", "Express", "React", "Node","NextJS],
+    source: "https://github.com/Vriddhi2021",
+    visit: "https://www.vriddhinitr.com/",
     id: 0,
   },
   {
+    title: "Recipe App",
+    description: "MERN app where users can add recipies and search any type of recipes",
+    image: "/images/4.jpg",
+    tags: ["Mongo", "Express", "React", "Node"],
+    source: "https://github.com/mastershailesh1234/recipe-app-frontend",
+    visit: "https://shailesh-recipe-app.netlify.app/",
+    id: 1,
+  },
+  {
     title: "Video Chat App",
-    description: " A React Video Chat Application using WebRTC.",
+    description: "A React Video Chat Application using WebRTC.",
     image: "/images/3.jpg",
     tags: ["React", "WebRTC"],
     source: "https://github.com/mastershailesh1234/video-chat",
@@ -18,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Text Chat App",
-    description: " A full Realtime Chat Application",
+    title: "Blog App",
+    description: "MERN Blog app similar to medium.com",
     image: "/images/4.jpg",
-    tags: ["React", "ChatEngine", "Firebase"],
-    source: "https://github.com/mastershailesh1234/video-chat",
-    visit: "https://shailesh-chat-app.netlify.app/",
+    tags: ["Mongo", "Express", "React", "Node"],
+    source: "https://github.com/mastershailesh1234/blog-app",
+    visit: "https://shailesh-patro-myanimegram.netlify.app/",
     id: 3,
   },
   {
@@ -35,16 +44,6 @@ export const projects = [
     source: "https://github.com/mastershailesh1234/covid19-tracker",
     visit: "https://shailesh-covid19-tracker.netlify.app/",
     id: 4,
-  },
-  {
-    title: "Alan-AI News App",
-    description:
-      "Conversational Voice Controlled React News Application using Alan AI.",
-    image: "/images/1.png",
-    tags: ["React", "Alan AI"],
-    source: "https://github.com/mastershailesh1234/AlanAI-news-app",
-    visit: "https://shailesh-news-reader-app.netlify.app",
-    id: 5,
   },
   {
     title: "Expense Tracker App",
@@ -65,10 +64,14 @@ export const TimeLineData = [
   { year: 2020, text: "Started Web Development and competitive programming" },
   {
     year: 2021,
-    text: "JUNE: Completed 7 major Projects related to MERN stack",
+    text: "AUG: Completed few major Projects related to MERN stack",
   },
-  // {
-  //   year: 2021,
-  //   text: "AUGUST:   5 star in Codechef and 1500+ rating in codeforces",
-  // },
+  {
+    year: 2022,
+    text: "JAN-FEB: Core Team, Vriddhi E-sports Fest,NITRKL",
+  },
+  {
+    year: 2022,
+    text: "JUN-AUG: Internship at Rebuilt India as Fullstack developer intern",
+  },
 ];
