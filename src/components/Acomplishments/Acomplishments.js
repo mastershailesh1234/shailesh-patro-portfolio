@@ -13,7 +13,6 @@ const data = [
   { number: 342, text: "rd rank in Newton's coding challenge September 2021" },
   { number: 1710, text: "+ Rating-Codechef" },
   { number: 756, text: "th rank in March CodeChef Starters 2021 Division 3" },
-  { number: 74, text: "th rank in Data Structures and Algorithms Coding Contest Hacker earth" },
 ];
 
 const Acomplishments = () => (
