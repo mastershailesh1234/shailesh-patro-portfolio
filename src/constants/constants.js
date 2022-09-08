@@ -3,7 +3,7 @@ export const projects = [
     title: "Vriddhi Website",
     description: "Vriddhi is India’s first college e-sports fest ",
     image: "/images/1.png",
-    tags: ["Mongo", "Express", "React", "Node","NextJS],
+    tags: ["Mongo", "Express", "React", "Node","NextJS"],
     source: "https://github.com/Vriddhi2021",
     visit: "https://www.vriddhinitr.com/",
     id: 0,
